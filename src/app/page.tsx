@@ -158,7 +158,7 @@ export default function LandingPage() {
           role: "Journalist",
           company: "Daily Gazette",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/stylish-good-looking-office-lady-enjoying-hot-coffee-holding-cup-sitttin-cafe-alone_197531-22842.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/stylish-good-looking-office-lady-enjoying-hot-coffee-holding-cup-sitttin-cafe-alone_197531-22842.jpg?_wi=1",
         },
         {
           id: "t2",
@@ -190,7 +190,7 @@ export default function LandingPage() {
           role: "Photographer",
           company: "Lens Pro",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/stylish-good-looking-office-lady-enjoying-hot-coffee-holding-cup-sitttin-cafe-alone_197531-22842.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/stylish-good-looking-office-lady-enjoying-hot-coffee-holding-cup-sitttin-cafe-alone_197531-22842.jpg?_wi=2",
         },
       ]}
       kpiItems={[
